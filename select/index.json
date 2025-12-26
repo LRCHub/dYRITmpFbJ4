@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Girls",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-26T12:56:29.273885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girls In My Hometown",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/01_Girls_In_My_Hometown_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How To Talk To Girls",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/02_How_To_Talk_To_Girls_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Of Them Girls",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/03_One_Of_Them_Girls_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where the Country Girls At",
+      "artist": "Trace Adkins feat. Luke Bryan & Pitbull",
+      "has_synced": true,
+      "path": "select/04_Where_the_Country_Girls_At_Trace_Adkins_feat._Luke_Bryan_&_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where the Country Girls At",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/05_Where_the_Country_Girls_At_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Girls",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/06_Good_Girls_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Girl's Gotta Do (What A Girl's Gotta Do)",
+      "artist": "Mindy McCready",
+      "has_synced": true,
+      "path": "select/07_A_Girl's_Gotta_Do_(What_A_Girl's_Gotta_Do)_Mindy_McCready.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All I Know About Girls",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/08_All_I_Know_About_Girls_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All the Pretty Girls",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/09_All_the_Pretty_Girls_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Broadway Girls (feat. Morgan Wallen)",
+      "artist": "Lil Durk feat. Morgan Wallen",
+      "has_synced": true,
+      "path": "select/10_Broadway_Girls_(feat._Morgan_Wallen)_Lil_Durk_feat._Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Broadway Girls",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/11_Broadway_Girls_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Different For Girls",
+      "artist": "Dierks Bentley feat. Elle King",
+      "has_synced": true,
+      "path": "select/12_Different_For_Girls_Dierks_Bentley_feat._Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Different For Girls",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/13_Different_For_Girls_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girls Lie Too - Greatest Hits Version",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/14_Girls_Lie_Too_-_Greatest_Hits_Version_Terri_Clark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girls",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Girls_aespa.txt"
+    }
+  ]
+}
